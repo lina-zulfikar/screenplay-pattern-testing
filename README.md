@@ -1,0 +1,1 @@
+pytest test_example.py --html=report.html untuk menjalankan testing dan mendapatkan reporting html
